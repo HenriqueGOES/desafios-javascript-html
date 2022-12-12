@@ -1,4 +1,4 @@
-# desafios-javascript-html
+# desafios-html
 
 atividades de desenvolvimento HTML
 
